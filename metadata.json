@@ -1,0 +1,6 @@
+{
+  "name": "Amazing World of Maths",
+  "description": "Interactive CBSE/NCERT Class 8 maths revision companion with geometric proofs, peer shortcuts, step-by-step quizzes, and a universal AI Maths Tutor answering questions across any standard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
